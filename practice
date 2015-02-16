@@ -1,6 +1,6 @@
 var searchterms = polyjs.data({
-    term: ["hope", "honesty", "joy", "luck"],
-    count: [16600000, 9140000, 7480000, 5000000]
+    term: ["hope", "honesty", "joy", "luck", "other"],
+    count: [16, 10, 12, 5, 7 ]
 });
 polyjs.chart({
     layer: {
